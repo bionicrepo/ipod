@@ -1,0 +1,15 @@
+Package: com.applepie.redd00r
+Name: redd00r
+Version: 0.6
+Architecture: iphoneos-arm
+Description: This tweak enables iOS 5/6 features on iOS 4. Please only use on iOS 4.
+Maintainer: applepie
+Author: applepie
+Section: Tweaks
+Depends: com.ericasadun.utilities, bash, system-cmds, sed, adv-cmds, bash, basic-cmds, coreutils, coreutils-bin, diffutils, file-cmds, findutils, lzma, ncurses, grep, readline, wget, preferenceloader, apt7-ssl, apt7, mobilesubstrate
+Conflicts: com.sull.daemontool, com.mrussian.noghostlyicons, removerecents, bosspaper, com.darkweaver.wallpaperjpegifier, com.justinxxvii.datadepositapp
+Filename: debs/com.applepie.redd00r_version_0.6-iphoneos-arm.deb
+Size: 7516554
+MD5sum: 1E68B613E06EDD7873056D7AFF0BE802
+SHA1: 669B9A7594C10EB8CD891CB0B691E7EF53618C9C
+SHA256: ACE77E69E2433F4D45A38293BD2808B0FB180A73FB9DC398D1BA57B5545D64CE
