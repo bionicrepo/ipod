@@ -9,3 +9,6 @@ Don't get confused with the 'ipod' instead of 'repo', it's an accident and will 
 
 
 That's all :)
+
+
+THIS REPO IS BUILT ON REPOSI3. (https://github.com/supermamom/reposi3)
