@@ -1,0 +1,15 @@
+Package: com.applepie.redd00r
+Name: redd00r
+Version: 0.6
+Architecture: iphoneos-arm
+Description: redd00r is a tweak that makes iOS 4 look like iOS 5/6. Adds Messages app to iPods, iCloud app, Newsstand. ONLY USE ON IOS 4!
+Maintainer: applepie
+Author: applepie
+Section: Tweaks
+Depends: com.ericasadun.utilities, bash, system-cmds, sed, adv-cmds, bash, basic-cmds, coreutils, coreutils-bin, diffutils, file-cmds, findutils, lzma, ncurses, grep, readline, wget, preferenceloader, apt7-ssl, apt7, mobilesubstrate
+Conflicts: com.sull.daemontool, com.mrussian.noghostlyicons, removerecents, bosspaper, com.darkweaver.wallpaperjpegifier, com.justinxxvii.datadepositapp
+Filename: debs/com.applepie.redd00r-0.6-iphoneos-arm-ios4.deb
+Size: 7516554
+MD5sum: 1e68b613e06edd7873056d7aff0be802
+SHA1: 669b9a7594c10eb8cd891cb0b691e7ef53618c9c
+SHA256: ace77e69e2433f4d45a38293bd2808b0fb180a73fb9dc398d1ba57b5545d64ce
