@@ -6,7 +6,7 @@ Description: redd00r is a tweak that makes iOS 4 look like iOS 5/6. Adds Message
 Maintainer: applepie
 Author: applepie
 Section: Tweaks
-Depends: com.ericasadun.utilities, bash, system-cmds, sed, adv-cmds, bash, basic-cmds, coreutils, coreutils-bin, diffutils, file-cmds, findutils, lzma, ncurses, grep, readline, wget, preferenceloader, apt7-ssl, apt7, mobilesubstrate
+Depends: com.ericasadun.utilities, system-cmds, sed, adv-cmds, bash, basic-cmds, coreutils, coreutils-bin, diffutils, file-cmds, findutils, lzma, ncurses, grep, readline, wget, preferenceloader, apt7-ssl, apt7, mobilesubstrate
 Conflicts: com.sull.daemontool, com.mrussian.noghostlyicons, removerecents, bosspaper, com.darkweaver.wallpaperjpegifier, com.justinxxvii.datadepositapp
 Filename: debs/com.applepie.redd00r-0.6-iphoneos-arm-ios4.deb
 Size: 7516554
