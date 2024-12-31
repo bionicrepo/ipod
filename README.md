@@ -5,7 +5,10 @@ This repository is made for Legacy iDevices. On your iDevice running iPhoneOS 2-
 
 Enter this repository link: `bionicrepo.github.io/ipod`
 
-Don't get confused with the '/ipod' in the link, it's an accident and will work on any Legacy iDevice.
+Don't get confused with the 'ipod' instead of 'repo', it's an accident and will work on any Legacy iDevice.
 
 
 That's all :)
+
+
+## THIS REPO IS BUILT ON REPOSI3. (https://github.com/supermamon/reposi3)
